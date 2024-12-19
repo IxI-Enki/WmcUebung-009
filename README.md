@@ -1,13 +1,22 @@
 ###### <p align="center"> WmcUebung-009 </p>
 
+# HTTP Methods - C.R.U.D. Actions
+
+- ## Create - POST
 <div align="center">
 
   <img src ="./img/post.png" alt="CREATE-POST" width=80%>
 </div>
+
+- ## Read - GET
+
+- ## Update - PUT
 <div align="center">
 
   <img src ="./img/put.png" alt="UPDATE-PUT" width=80%>
 </div>
+
+- ## Delete - DELETE
 <div align="center">
 
   <img src ="./img/delete.png" alt="DELETE" width=80%>
