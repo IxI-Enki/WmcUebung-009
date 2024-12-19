@@ -2,15 +2,15 @@
 
 <div align="center">
 
-  <img src ="./img/json-server.png" alt="json-server" width=80%>
+  <img src ="./img/post.png" alt="CREATE-POST" width=80%>
 </div>
 <div align="center">
 
-  <img src ="./img/json-server.png" alt="json-server" width=80%>
+  <img src ="./img/put.png" alt="UPDATE-PUT" width=80%>
 </div>
 <div align="center">
 
-  <img src ="./img/json-server.png" alt="json-server" width=80%>
+  <img src ="./img/delete.png" alt="DELETE" width=80%>
 </div>
 
 
