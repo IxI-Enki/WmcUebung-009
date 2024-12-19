@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>wmc learning</title>
+  <link rel="stylesheet" href="./indexStyle.css">
+  <script src="./script.js"></script>
+</head>
+
+<body>
+
+  <a id="header"><strong>Web Medien Computing</strong></a>
+  <hr>
+
+  <span id="darkModeButton">
+    swaps to dark-mode
+    <button class="buttonR" onclick="startDarkmode()">
+      <strong>Darkmode</strong></button>
+  </span>
+  <span id="lightModeButton">
+    <button class="buttonL" onclick="startLightmode()">
+      <strong>Lightmode</strong></button>
+    swaps to light-mode
+  </span>
+
+
+  <!-- container for the training -->
+  <grid id="container">
+    <div id="trainingsContainer">
+      <p id="uebungsAusgabe">
+        const greeting = "Hello Jan"; <br>
+        console.log(greeting);
+      </p>
+    </div>
+    <p>
+      <button id="runButton" onclick="runCode()"> ▶️Run </button>
+    </p>
+  </grid>
+  
+</body>
+
+</html>

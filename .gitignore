@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/WmcUebung-004/v17
+/.vs/WmcUebung-004/FileContentIndex
+/.vs
+/http-server/node_modules/.bin
+/json-server/node_modules/.bin
