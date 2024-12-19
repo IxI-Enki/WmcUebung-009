@@ -1,5 +1,23 @@
-###### <p align="center"> WmcUebung-004 </p>
+###### <p align="center"> WmcUebung-009 </p>
 
+<div align="center">
+
+  <img src ="./img/json-server.png" alt="json-server" width=80%>
+</div>
+<div align="center">
+
+  <img src ="./img/json-server.png" alt="json-server" width=80%>
+</div>
+<div align="center">
+
+  <img src ="./img/json-server.png" alt="json-server" width=80%>
+</div>
+
+
+
+
+
+<!--
 - ### *To test my javascript skills i first made myself a "playground environment"*:
 
 <div align="center">
@@ -40,6 +58,5 @@
 >    <img src ="./img/json-server-different-browsers.png" alt="json server on different browsers" width=70%>
 >  </div>
 
----
-
+-->
 
