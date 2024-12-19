@@ -9,6 +9,10 @@
 </div>
 
 - ## Read - GET
+<div align="center">
+
+  <img src ="./img/get.png" alt="READ-GET" width=80%>
+</div>
 
 - ## Update - PUT
 <div align="center">
